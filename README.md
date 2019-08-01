@@ -1,4 +1,4 @@
-# **hyperblog**:tw-1f60f:
+# **hyperblog** 😄
 **Un blog increíble para el cursos de Git y Github de Platzi**
 
 > El curso de GitHub es lo que hacía falta para triplicar el salario y lanzarme a la industrica del aceite de seje y mateca de babilla. 
