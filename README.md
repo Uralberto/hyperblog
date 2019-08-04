@@ -12,6 +12,7 @@
 - El verdadero amor por la buena prácticas
 - Trucos muy locos del profesor
 - Las personalidades múltiples de Freddy
+- Creado por el increible Platzi Team
 
 > Este es un readme a menra de prueba
 
