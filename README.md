@@ -1,5 +1,5 @@
 # **hyperblog** 😄
-**Un blog de jemplo para el curso de Git y Github de Platzi**
+**Un blog de ejemplo para el curso de Git y Github de Platzi**
 
 > El curso de GitHub es lo que hacía falta para triplicar el salario y lanzarme a la industrica del aceite de seje y mateca de babilla. 
 
